@@ -1,4 +1,5 @@
 ## Destructuring
+[![Build status](https://ci.appveyor.com/api/projects/status/17yn2q3jcmy2sdnp?svg=true)](https://ci.appveyor.com/project/Pavka16/destructuring)
 ---
 #### **Легенда**
 При выборе конкретного пресонажа на поле необходимо во время боя на экране отображать доступные варианты спец.атак для этого персонажа. Это вам и предстоит сделать.
